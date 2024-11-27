@@ -66,7 +66,7 @@ export default function Home() {
                 </div>
                 <div className="header__content__bottom__contact-info">
                   <a href="https://www.instagram.com/milegalista/"><img src="/img/instagram-icon.png" alt="" /></a>
-                  <p>info@milegalista.com</p>
+                  <p>fernandosuarez@milegalista.com</p>
                 </div>
               </div>
             </div>
