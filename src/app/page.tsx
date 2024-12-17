@@ -7,7 +7,7 @@ import React, { useEffect } from "react";
 export default function Home() {
 
   var now = moment(new Date());
-  var end = moment("2024-12-15");
+  var end = moment("2024-12-23");
 
   const [dateDiff, setDateDiff] = React.useState({days: "-", hours: "-", minutes: "-", seconds: "-"});
 
